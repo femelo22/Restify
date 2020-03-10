@@ -1,0 +1,19 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "curso Udemy js",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "Fernando",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.1",
+        "knex": "^0.20.7",
+        "mysql": "^2.17.1",
+        "nodemon": "^2.0.2",
+        "restify": "^8.5.1",
+        "restify-errors": "^8.0.2"
+    }
+}
